@@ -1,5 +1,7 @@
 # force-inject
 
+[![NPM version](https://img.shields.io/npm/v/force-inject.svg?style=flat)](https://npmjs.org/package/force-inject)
+
 simple dependency inject support async, generator function.
 
 *caveat*:
