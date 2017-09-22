@@ -1,0 +1,23 @@
+{
+  "name": "force-inject",
+  "version": "0.0.1",
+  "description": "simple dependency injection",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marzk/force-inject.git"
+  },
+  "files": ["index.js", "get-arg-list.js"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marzk/force-inject/issues"
+  },
+  "homepage": "https://github.com/marzk/force-inject#readme",
+  "devDependencies": {
+    "ava": "^0.22.0"
+  }
+}
